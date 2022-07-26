@@ -5,7 +5,7 @@ This repo is for running WP in a `Docker Container`.
 ## Run it
 
 ```
-docker-compose up
+docker-compose up -d
 ```
 
 - Wordpress on `localhost:8000`
